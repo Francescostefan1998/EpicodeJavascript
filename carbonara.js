@@ -7,14 +7,14 @@ let rawblackpepper = 4;
 let salt = 20;
 let waterwithoutsalt = 4000;
 console.log("Recipe for Carbonara");
-console.log("Products");
-console.log("Spaghetti ", spaghetti, "grams");
-console.log("Egg yolks ", veryfresheggyolks,);
-console.log("Pecorino ", PecorinoRomanocheese, "grams");
-console.log("Raw black pepper", rawblackpepper, "grams");
-console.log("Salt ", salt, "grams");
-console.log("Water ", waterwithoutsalt, "grams");
-console.log("Procedure");
+console.log("Products:");
+console.log("Spaghetti: ", spaghetti, "grams");
+console.log("Egg yolks: ", veryfresheggyolks,);
+console.log("Pecorino: ", PecorinoRomanocheese, "grams");
+console.log("Raw black pepper:", rawblackpepper, "grams");
+console.log("Salt: ", salt, "grams");
+console.log("Water: ", waterwithoutsalt, "grams");
+console.log("Procedure:");
 
 //To make classic carbonara, first cut the guanciale into 1cm layers, then into long strips.//
 //Combine the egg yolks with the finely grated Pecorino Romano.//
